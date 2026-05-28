@@ -5,3 +5,7 @@ javascript:(function () {
     removeLearboard.remove();
     showScore.className = "lab-show l-full no-nav application-new lab-show l-full no-nav "
 })();
+
+
+
+https://arcadepoints.vercel.app/dashboard
